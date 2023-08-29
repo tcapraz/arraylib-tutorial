@@ -22,6 +22,6 @@ Contents
    :maxdepth: 2
    :caption: Tutorials:
 
-   notebooks/run_test_data
+   ../notebooks/run_test_data
 
 
